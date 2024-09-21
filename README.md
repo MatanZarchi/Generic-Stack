@@ -28,10 +28,13 @@
 
 ## 📌 Pics & examples
 
+##1
 <img src="https://github.com/user-attachments/assets/52381b19-7872-4837-85c9-43496db75425" alt="image" width="600" height="auto">
 
+##2
 <img src="https://github.com/user-attachments/assets/749fe54a-2c9e-4ee1-993a-f151d77e3d9b" alt="image" width="600" height="auto">
 
+##3
 <img src="https://github.com/user-attachments/assets/beb7ec6d-bd71-4f00-8267-4b09bb986353" alt="image" width="600" height="auto">
 
 ## *******************************************************************
